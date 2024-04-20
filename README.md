@@ -3,4 +3,4 @@
 
 - I also run my own shop which currently has a 70% OFF DISCOUNT! 🔥 Check it out https://zephyrshop.org/
 
-Here I will make an interactive Rock Paper Scissors game in JavaScript.
+Here I will make an interactive Etch-A-Sketch pixel art drawing tool in JavaScript.
